@@ -1,1 +1,0 @@
-- Prediction on Algerian Forest Fire dataset using Ridge Regressor
